@@ -1,0 +1,4 @@
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.core\bin\Debug\phone.core.dll
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.core\bin\Debug\phone.core.pdb
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.core\obj\Debug\phone.core.dll
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.core\obj\Debug\phone.core.pdb

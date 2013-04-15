@@ -1,0 +1,10 @@
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.test\bin\Debug\phone.test.dll
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.test\bin\Debug\phone.test.pdb
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.test\obj\Debug\phone.test.csprojResolveAssemblyReference.cache
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.test\obj\Debug\phone.test.dll
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.test\obj\Debug\phone.test.pdb
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.test\bin\Debug\phone.dal.dll
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.test\bin\Debug\EntityFramework.dll
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.test\bin\Debug\phone.dal.pdb
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.test\bin\Debug\EntityFramework.xml
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.test\bin\Debug\phone.test.dll.config

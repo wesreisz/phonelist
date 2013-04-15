@@ -1,0 +1,7 @@
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.dal\bin\Debug\phone.dal.dll.config
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.dal\bin\Debug\phone.dal.dll
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.dal\bin\Debug\phone.dal.pdb
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.dal\bin\Debug\EntityFramework.dll
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.dal\bin\Debug\EntityFramework.xml
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.dal\obj\Debug\phone.dal.dll
+C:\Users\Wes\projects\phonelist\phonelist-v2\phone.dal\obj\Debug\phone.dal.pdb
